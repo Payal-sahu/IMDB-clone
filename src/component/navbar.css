@@ -1,0 +1,12 @@
+.navbar1{
+    width:"500px";
+    position:fixed;
+    left:0ps;
+    top:0px;
+    z-index: 99;
+    background-color:rgb(30,41,59);
+    color:rgb(30,41,59);
+}
+/* .navbar1{
+    z-index: 99;
+} */

@@ -1,0 +1,10 @@
+.filter{
+    display: block !important;
+    width:22%;
+    height:100%;
+    position:fixed;
+    right:0px;
+    top:0px;
+    padding: 25px 20px;
+    background-color:rgb(15,23,42);
+}
